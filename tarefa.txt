@@ -1,0 +1,46 @@
+Problema:
+
+Faça uma análise clara sobre a relação entre a tarifa paga (Fare) e a chance de sobreviver no Titanic, segmentando os dados por classe (Pclass) e sexo (Sex).
+
+A análise deve conter:
+
+- Números percentuais
+- Gráficos comparativos
+- Uma conclusão clara e objetiva
+
+Pergunta principal:
+Quem pagou mais teve mais chance de sobreviver?
+
+Observação:
+É importante identificar se esse padrão se aplica a todos os passageiros ou apenas a determinados grupos (por exemplo, somente mulheres ou apenas passageiros da 1ª classe).
+
+Etapas:
+
+1 - Relação entre tarifa e sobrevivência:
+
+- Homens: Há uma relação clara. Quanto maior a tarifa paga, maior a chance de sobrevivência, em todas as classes.
+- Mulheres: Essa relação só aparece na segunda classe. Na primeira e terceira classes, não há correlação positiva. Em alguns casos, quem pagou mais teve menor taxa de sobrevivência.
+
+2 - Diferença percentual nas tarifas (sobreviventes vs não sobreviventes):
+
+Mulheres:
+- Primeira classe: sobreviventes pagaram, em média, 4% a menos.
+- Terceira classe: pagaram 36% a menos.
+- Segunda classe: exceção — pagaram 22% a mais.
+
+Homens:
+- Primeira classe: sobreviventes pagaram 18% a mais.
+- Segunda classe: 8% a mais.
+- Terceira classe: 27% a mais.
+
+3 - Gráficos:
+
+Incluir gráficos de barras para representar visualmente essas comparações, com separação por sexo, classe e sobrevivência.
+
+Conclusão:
+
+Sim, quem pagou mais teve mais chance de sobreviver — mas não em todos os casos.
+
+Esse padrão é verdadeiro para homens de todas as classes. Para as mulheres, só se confirma na segunda classe.
+
+
