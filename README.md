@@ -34,7 +34,7 @@ O arquivo train.csv pode ser obtido diretamente no site do Kaggle:
 
 https://www.kaggle.com/c/titanic/data
 
-Coloque o arquivo na mesma pasta do notebook antes de executá-lo.
+Coloque o arquivo na mesma pasta do notebook antes de executá-lo
 
 Como executar
 
